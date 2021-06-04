@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moses-OK
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Jvavascript(Web development)
+- 👀 I’m interested in Fullstack development and Devops
+- 🌱 I’m currently learning Javascript(Web development)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
